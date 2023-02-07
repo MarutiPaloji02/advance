@@ -28,6 +28,11 @@
 				alt="" height="48" width="80"> </a> <a href="fooditem.jsp">Food
 				Item</a>
 		</div>
+		
+		<div class="col-1">
+			<a href="interview.jsp">Interview</a>
+		</div>
+		
 	</nav>
 
 </body>
